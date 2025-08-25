@@ -5,7 +5,7 @@ This project aims to create an AI-powered agent that automates the job applicati
 
 - Scrape job postings and internships from various websites.
 - Analyze your resume and match it with job descriptions.
-- Generate tailored application emails or cover letters.
+- Generate tailored resume, application emails or cover letters.
 - Optionally track application statuses and provide interview preparation tips.
 
 ## Features
