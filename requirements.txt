@@ -1,0 +1,19 @@
+# Core dependencies
+beautifulsoup4
+scrapy
+selenium
+
+# Resume parsing
+pypdf2
+pdfplumber
+
+# LLM integration
+transformers
+langchain
+
+# Email automation
+smtplib
+sendgrid
+
+# Testing
+pytest
